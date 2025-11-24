@@ -1,1 +1,9 @@
+[
+  { "hallId": "mu", "name": "Veggie Omelette", "mealTime": "breakfast" },
+  { "hallId": "mu", "name": "Pancakes", "mealTime": "breakfast" },
+  { "hallId": "mu", "name": "Grilled Chicken Bowl", "mealTime": "lunch" },
+  { "hallId": "mu", "name": "Pasta Marinara", "mealTime": "lunch" },
+  { "hallId": "mu", "name": "Taco Bar", "mealTime": "dinner" },
+  { "hallId": "mu", "name": "Salmon Plate", "mealTime": "dinner" }
+]
 
