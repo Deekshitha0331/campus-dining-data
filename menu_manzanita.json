@@ -1,1 +1,9 @@
+[
+  { "hallId": "manzanita", "name": "Breakfast Burrito", "mealTime": "breakfast" },
+  { "hallId": "manzanita", "name": "French Toast", "mealTime": "breakfast" },
+  { "hallId": "manzanita", "name": "Burger & Fries", "mealTime": "lunch" },
+  { "hallId": "manzanita", "name": "Grilled Veg Sandwich", "mealTime": "lunch" },
+  { "hallId": "manzanita", "name": "Pizza Slice", "mealTime": "dinner" },
+  { "hallId": "manzanita", "name": "Grilled Salmon", "mealTime": "dinner" }
+]
 
