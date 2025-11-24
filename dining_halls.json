@@ -1,1 +1,24 @@
+[
+  {
+    "id": "mu",
+    "name": "Memorial Union Dining",
+    "description": "Central hub with multiple dining options.",
+    "latitude": 33.4192,
+    "longitude": -111.9325
+  },
+  {
+    "id": "barrett",
+    "name": "Barrett Dining",
+    "description": "Honors dining hall serving varied meals.",
+    "latitude": 33.4165,
+    "longitude": -111.9314
+  },
+  {
+    "id": "manzanita",
+    "name": "Manzanita Dining",
+    "description": "Residential hall dining services.",
+    "latitude": 33.4220,
+    "longitude": -111.9297
+  }
+]
 
