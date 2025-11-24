@@ -1,1 +1,9 @@
+[
+  { "hallId": "barrett", "name": "Avocado Toast", "mealTime": "breakfast" },
+  { "hallId": "barrett", "name": "Berry Smoothie", "mealTime": "breakfast" },
+  { "hallId": "barrett", "name": "Chicken Caesar Wrap", "mealTime": "lunch" },
+  { "hallId": "barrett", "name": "Veggie Wrap", "mealTime": "lunch" },
+  { "hallId": "barrett", "name": "Sushi Rolls", "mealTime": "dinner" },
+  { "hallId": "barrett", "name": "Stir Fry Noodles", "mealTime": "dinner" }
+]
 
